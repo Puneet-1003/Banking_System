@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+.content-table
+    {
+    	border-collapse: collapse;
+    	font-size: 0.9em;
+    	min-width: 400px;
+    	border-radius: 5px 5px 0 0;
+    	width: 60%;
+    }
